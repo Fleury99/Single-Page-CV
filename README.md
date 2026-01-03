@@ -17,4 +17,7 @@ By completing this project, you'll gain a solid understanding of how to create a
 
 # Chrome Dev Tools Performances Test
 
-[Test](assets/Screenshot%20from%202025-12-26%2000-17-40.png)
+# Lighthouse viewer ( Performance, Accessibility, Best Practices, SEO)
+
+![Lighthouse viewer](assets/lighthouse-results.png)
+
